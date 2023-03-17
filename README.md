@@ -1,1 +1,1 @@
-# Big-Data-AWS-ETL
+A Python ETL & EDA pipeline to analyze the current job market for data analysts. Uutilized Amazon PostgreSQL, sqlalchemy, seaborn, and sklearn to figure out which skills are the most valuable
